@@ -1,14 +1,14 @@
-# Projeto Painel de Login
+  Projeto Painel de Login
 
 Este projeto cria uma interface web de login e cadastro de usuários com um design moderno e elegante. O objetivo é proporcionar uma experiência de usuário agradável e funcional, utilizando elementos de design sofisticados e animações.
 
-## Tecnologias Utilizadas
+   Tecnologias Utilizadas
 
 - HTML: Estrutura básica da página.
 - CSS: Estilização e layout visual.
 - JavaScript: Funcionalidades interativas e manipulação do DOM.
 
-## Arquitetura do Projeto
+   Arquitetura do Projeto
 
 O projeto é dividido em duas partes principais: a página de login e a página de cadastro de novos usuários. Cada parte possui seus próprios componentes e estilos, integrados em um único arquivo HTML para simplificar a execução.
 
@@ -16,7 +16,7 @@ O projeto é dividido em duas partes principais: a página de login e a página 
 - Formulário de Login: Inclui campos para email e senha, com ícones, e links para "Esqueci minha senha" e "Registrar".
 - Formulário de Cadastro: Inclui campos para nome de usuário, email, senha e confirmação de senha, com ícones.
 
-## Implementação
+   Implementação
 
 Passos de Desenvolvimento:
 
@@ -29,7 +29,7 @@ Passos de Desenvolvimento:
    - Implementação de scripts para alternar entre os formulários de login e cadastro.
    - Manipulação de eventos para captura de dados dos formulários e simulação de autenticação/registro.
 
-## Configuração e Execução
+   Configuração e Execução
 
 Passos para Configurar e Executar o Projeto:
 
@@ -40,7 +40,7 @@ Passos para Configurar e Executar o Projeto:
    - Abra o arquivo `index.html` em seu navegador.
    - Preencha os campos do formulário de login ou clique em "Registrar" para acessar o formulário de cadastro.
 
-## Conclusão
+   Conclusão
 
 O projeto resultou em uma interface web funcional e visualmente atraente para login e cadastro de usuários. Com um design moderno e elegante, a experiência do usuário foi aprimorada com animações e estilos sofisticados.
 
